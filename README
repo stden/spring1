@@ -1,2 +1,7 @@
-Подключение всех библиотек через Maven.
+Подключение всех библиотек через Maven - http://maven.apache.org
+Создать переменные среды: 
+  JAVA_HOME = C:\Program Files\Java\jdk1.7.0_09
+  MAVEN_HOME = C:\apache\maven
+Добавить в PATH C:\apache\maven\bin
+Статья: http://www.mkyong.com/maven/how-to-install-maven-in-windows/
 Среда разработки: IntelliJ Idea.
