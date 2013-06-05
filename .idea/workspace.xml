@@ -2,12 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="667df36e-d1f7-47ea-ae68-d18006d282bb" name="Default" comment="REST веб-сервис">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_25.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_all_1_9_5.xml" />
+      <change type="DELETED" beforePath="C:\vvp\spring1\.idea\libraries\Maven__aopalliance_aopalliance_1_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\vvp\spring1\.idea\libraries\Maven__commons_lang_commons_lang_2_5.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\vvp\spring1\.idea\libraries\Maven__commons_logging_commons_logging_1_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\vvp\spring1\.idea\libraries\Maven__javax_xml_stream_stax_api_1_0_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\vvp\spring1\.idea\libraries\Maven__org_springframework_spring_aop_3_1_2_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\vvp\spring1\.idea\libraries\Maven__org_springframework_spring_asm_3_1_2_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\vvp\spring1\.idea\libraries\Maven__org_springframework_spring_beans_3_1_2_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\vvp\spring1\.idea\libraries\Maven__org_springframework_spring_context_3_1_2_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\vvp\spring1\.idea\libraries\Maven__org_springframework_spring_context_support_3_1_2_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\vvp\spring1\.idea\libraries\Maven__org_springframework_spring_core_3_1_2_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\vvp\spring1\.idea\libraries\Maven__org_springframework_spring_expression_3_1_2_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\vvp\spring1\.idea\libraries\Maven__org_springframework_spring_oxm_3_1_2_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\vvp\spring1\.idea\libraries\Maven__org_springframework_spring_web_3_1_2_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\vvp\spring1\.idea\libraries\Maven__org_springframework_spring_webmvc_3_1_2_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\vvp\spring1\.idea\libraries\Maven__org_springframework_ws_spring_ws_core_2_1_1_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\vvp\spring1\.idea\libraries\Maven__wsdl4j_wsdl4j_1_6_1.xml" afterPath="" />
+      <change type="MOVED" beforePath="C:\vvp\spring1\.idea\libraries\Maven__javax_ws_rs_jsr311_api_0_8.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_ws_rs_jsr311_api_1_1_ea.xml" />
+      <change type="MOVED" beforePath="C:\vvp\spring1\.idea\libraries\Maven__org_springframework_ws_spring_xml_2_1_1_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_ws_spring_ws_core_LATEST.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring1.iml" afterPath="$PROJECT_DIR$/spring1.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="spring1.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="667df36e-d1f7-47ea-ae68-d18006d282bb" time="1362474301497" ignored="false" />
-    <file path="/pom.xml" changelist="667df36e-d1f7-47ea-ae68-d18006d282bb" time="1354140248050" ignored="false" />
+    <file path="/Dummy.txt" changelist="667df36e-d1f7-47ea-ae68-d18006d282bb" time="1370464352975" ignored="false" />
+    <file path="/pom.xml" changelist="667df36e-d1f7-47ea-ae68-d18006d282bb" time="1370464478520" ignored="false" />
     <file path="/UTGenTest.java" changelist="667df36e-d1f7-47ea-ae68-d18006d282bb" time="1354132143016" ignored="false" />
     <file path="/HelloWorld.java" changelist="667df36e-d1f7-47ea-ae68-d18006d282bb" time="1354138493144" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -76,7 +98,16 @@
       <file leaf-file-name="pom.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="50" selection-start="369" selection-end="369" vertical-scroll-proportion="0.31233597">
+            <state line="7" column="48" selection-start="369" selection-end="369" vertical-scroll-proportion="0.6263158">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.jsp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/index.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -94,7 +125,7 @@
       <file leaf-file-name="HelloWorld.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/example/HelloWorld.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="40" selection-start="870" selection-end="870" vertical-scroll-proportion="0.0">
+            <state line="37" column="1" selection-start="1150" selection-end="1150" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -104,312 +135,6 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/UTGenTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state line="6" column="8" selection-start="105" selection-end="105" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MAVEN/spring1:spring1:1.0-SNAPSHOT" pinned="false" current="false" current-in-tab="false">
-        <entry file="uml://MAVEN/spring1:spring1:1.0-SNAPSHOT">
-          <provider selected="true" editor-type-id="UmlEditorProvider">
-            <state>
-              <ID>MAVEN</ID>
-              <OriginalElement>spring1:spring1:1.0-SNAPSHOT</OriginalElement>
-              <nodes>
-                <node x="-47.5" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-context:jar:3.1.2.RELEASE/org.springframework:spring-aop:jar:3.1.2.RELEASE</node>
-                <node x="-83.5" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-webmvc:jar:3.1.2.RELEASE/org.springframework:spring-context-support:jar:3.1.2.RELEASE</node>
-                <node x="-46.0" y="-14.0">com.sun.jersey:jersey:jar:0.8-ea/javax.ws.rs:jsr311-api:jar:0.8</node>
-                <node x="-40.5" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/javax.xml.stream:stax-api:jar:1.0-2</node>
-                <node x="-59.5" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE</node>
-                <node x="-49.0" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-context:jar:3.1.2.RELEASE/org.springframework:spring-asm:jar:3.1.2.RELEASE</node>
-                <node x="-67.5" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-core:jar:3.1.2.RELEASE/commons-logging:commons-logging:jar:1.1.1</node>
-                <node x="-49.5" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-webmvc:jar:3.1.2.RELEASE/org.springframework:spring-context-support:jar:3.1.2.RELEASE/org.springframework:spring-core:jar:3.1.2.RELEASE</node>
-                <node x="-35.0" y="-14.0">com.sun.jersey:jersey:jar:0.8-ea</node>
-                <node x="-49.5" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-webmvc:jar:3.1.2.RELEASE/org.springframework:spring-core:jar:3.1.2.RELEASE</node>
-                <node x="-68.0" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-webmvc:jar:3.1.2.RELEASE/org.springframework:spring-expression:jar:3.1.2.RELEASE</node>
-                <node x="-67.5" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework.ws:spring-xml:jar:2.1.1.RELEASE/commons-logging:commons-logging:jar:1.1.1</node>
-                <node x="-47.5" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-aop:jar:3.1.2.RELEASE</node>
-                <node x="-59.0" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-webmvc:jar:3.1.2.RELEASE/org.springframework:spring-context-support:jar:3.1.2.RELEASE/org.springframework:spring-context:jar:3.1.2.RELEASE</node>
-                <node x="-49.0" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-webmvc:jar:3.1.2.RELEASE/org.springframework:spring-asm:jar:3.1.2.RELEASE</node>
-                <node x="-54.0" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-beans:jar:3.1.2.RELEASE</node>
-                <node x="-93.0" y="84.0">junit:junit:jar:4.11/org.hamcrest:hamcrest-core:jar:1.3</node>
-                <node x="337.5" y="-7.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-beans:jar:3.1.2.RELEASE/org.springframework:spring-core:jar:3.1.2.RELEASE</node>
-                <node x="-54.0" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-web:jar:3.1.2.RELEASE/org.springframework:spring-beans:jar:3.1.2.RELEASE</node>
-                <node x="-29.0" y="-14.0">com.sun.jersey:jersey:jar:0.8-ea/asm:asm:jar:3.1</node>
-                <node x="-49.0" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-aop:jar:3.1.2.RELEASE/org.springframework:spring-asm:jar:3.1.2.RELEASE</node>
-                <node x="-49.5" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework.ws:spring-xml:jar:2.1.1.RELEASE/org.springframework:spring-core:jar:3.1.2.RELEASE</node>
-                <node x="-67.5" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/commons-logging:commons-logging:jar:1.1.1</node>
-                <node x="-49.5" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-oxm:jar:3.1.2.RELEASE/org.springframework:spring-core:jar:3.1.2.RELEASE</node>
-                <node x="-40.5" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework.ws:spring-xml:jar:2.1.1.RELEASE/javax.xml.stream:stax-api:jar:1.0-2</node>
-                <node x="-59.0" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-web:jar:3.1.2.RELEASE/org.springframework:spring-context:jar:3.1.2.RELEASE</node>
-                <node x="-48.5" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-webmvc:jar:3.1.2.RELEASE/org.springframework:spring-web:jar:3.1.2.RELEASE</node>
-                <node x="-49.5" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-aop:jar:3.1.2.RELEASE/org.springframework:spring-core:jar:3.1.2.RELEASE</node>
-                <node x="-59.0" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-context:jar:3.1.2.RELEASE</node>
-                <node x="-48.5" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-web:jar:3.1.2.RELEASE</node>
-                <node x="-54.0" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework.ws:spring-xml:jar:2.1.1.RELEASE/org.springframework:spring-beans:jar:3.1.2.RELEASE</node>
-                <node x="-54.0" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-webmvc:jar:3.1.2.RELEASE/org.springframework:spring-beans:jar:3.1.2.RELEASE</node>
-                <node x="20.0" y="-111.0">log4j:log4j:jar:1.2.17</node>
-                <node x="-54.0" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-aop:jar:3.1.2.RELEASE/org.springframework:spring-beans:jar:3.1.2.RELEASE</node>
-                <node x="-59.0" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-oxm:jar:3.1.2.RELEASE/commons-lang:commons-lang:jar:2.5</node>
-                <node x="-49.0" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-web:jar:3.1.2.RELEASE/aopalliance:aopalliance:jar:1.0</node>
-                <node x="-54.0" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-oxm:jar:3.1.2.RELEASE/org.springframework:spring-beans:jar:3.1.2.RELEASE</node>
-                <node x="-59.0" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-webmvc:jar:3.1.2.RELEASE/org.springframework:spring-context:jar:3.1.2.RELEASE</node>
-                <node x="-54.0" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-context:jar:3.1.2.RELEASE/org.springframework:spring-beans:jar:3.1.2.RELEASE</node>
-                <node x="0.0" y="0.0">spring1:spring1:1.0-SNAPSHOT</node>
-                <node x="-68.0" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-context:jar:3.1.2.RELEASE/org.springframework:spring-expression:jar:3.1.2.RELEASE</node>
-                <node x="-49.5" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-context:jar:3.1.2.RELEASE/org.springframework:spring-core:jar:3.1.2.RELEASE</node>
-                <node x="-59.0" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-oxm:jar:3.1.2.RELEASE/org.springframework:spring-context:jar:3.1.2.RELEASE</node>
-                <node x="-35.0" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/wsdl4j:wsdl4j:jar:1.6.1</node>
-                <node x="-49.0" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-aop:jar:3.1.2.RELEASE/aopalliance:aopalliance:jar:1.0</node>
-                <node x="-49.5" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-web:jar:3.1.2.RELEASE/org.springframework:spring-core:jar:3.1.2.RELEASE</node>
-                <node x="-49.5" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-context:jar:3.1.2.RELEASE/org.springframework:spring-expression:jar:3.1.2.RELEASE/org.springframework:spring-core:jar:3.1.2.RELEASE</node>
-                <node x="-59.0" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework.ws:spring-xml:jar:2.1.1.RELEASE/org.springframework:spring-context:jar:3.1.2.RELEASE</node>
-                <node x="-49.5" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-core:jar:3.1.2.RELEASE</node>
-                <node x="-54.0" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-webmvc:jar:3.1.2.RELEASE/org.springframework:spring-context-support:jar:3.1.2.RELEASE/org.springframework:spring-beans:jar:3.1.2.RELEASE</node>
-                <node x="-60.5" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-webmvc:jar:3.1.2.RELEASE</node>
-                <node x="-49.5" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-oxm:jar:3.1.2.RELEASE</node>
-                <node x="-49.0" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-core:jar:3.1.2.RELEASE/org.springframework:spring-asm:jar:3.1.2.RELEASE</node>
-                <node x="-139.0" y="-44.0">junit:junit:jar:4.11</node>
-                <node x="-46.0" y="-14.0">javax.ws.rs:jsr311-api:jar:1.1-ea</node>
-                <node x="-47.5" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework.ws:spring-xml:jar:2.1.1.RELEASE</node>
-              </nodes>
-              <notes />
-              <edges>
-                <edge source="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE" target="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-webmvc:jar:3.1.2.RELEASE">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework.ws:spring-xml:jar:2.1.1.RELEASE" target="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework.ws:spring-xml:jar:2.1.1.RELEASE/org.springframework:spring-beans:jar:3.1.2.RELEASE">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-web:jar:3.1.2.RELEASE" target="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-web:jar:3.1.2.RELEASE/org.springframework:spring-context:jar:3.1.2.RELEASE">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-webmvc:jar:3.1.2.RELEASE" target="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-webmvc:jar:3.1.2.RELEASE/org.springframework:spring-context:jar:3.1.2.RELEASE">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE" target="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/commons-logging:commons-logging:jar:1.1.1">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="spring1:spring1:1.0-SNAPSHOT" target="junit:junit:jar:4.11">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE" target="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/javax.xml.stream:stax-api:jar:1.0-2">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE" target="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/wsdl4j:wsdl4j:jar:1.6.1">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework.ws:spring-xml:jar:2.1.1.RELEASE" target="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework.ws:spring-xml:jar:2.1.1.RELEASE/org.springframework:spring-core:jar:3.1.2.RELEASE">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-webmvc:jar:3.1.2.RELEASE" target="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-webmvc:jar:3.1.2.RELEASE/org.springframework:spring-web:jar:3.1.2.RELEASE">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-oxm:jar:3.1.2.RELEASE" target="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-oxm:jar:3.1.2.RELEASE/org.springframework:spring-beans:jar:3.1.2.RELEASE">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-web:jar:3.1.2.RELEASE" target="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-web:jar:3.1.2.RELEASE/org.springframework:spring-beans:jar:3.1.2.RELEASE">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="com.sun.jersey:jersey:jar:0.8-ea" target="com.sun.jersey:jersey:jar:0.8-ea/asm:asm:jar:3.1">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-aop:jar:3.1.2.RELEASE" target="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-aop:jar:3.1.2.RELEASE/org.springframework:spring-asm:jar:3.1.2.RELEASE">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-aop:jar:3.1.2.RELEASE" target="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-aop:jar:3.1.2.RELEASE/aopalliance:aopalliance:jar:1.0">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-beans:jar:3.1.2.RELEASE" target="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-beans:jar:3.1.2.RELEASE/org.springframework:spring-core:jar:3.1.2.RELEASE">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE" target="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-oxm:jar:3.1.2.RELEASE">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-context:jar:3.1.2.RELEASE/org.springframework:spring-expression:jar:3.1.2.RELEASE" target="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-context:jar:3.1.2.RELEASE/org.springframework:spring-expression:jar:3.1.2.RELEASE/org.springframework:spring-core:jar:3.1.2.RELEASE">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-aop:jar:3.1.2.RELEASE" target="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-aop:jar:3.1.2.RELEASE/org.springframework:spring-beans:jar:3.1.2.RELEASE">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-webmvc:jar:3.1.2.RELEASE/org.springframework:spring-context-support:jar:3.1.2.RELEASE" target="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-webmvc:jar:3.1.2.RELEASE/org.springframework:spring-context-support:jar:3.1.2.RELEASE/org.springframework:spring-core:jar:3.1.2.RELEASE">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-webmvc:jar:3.1.2.RELEASE" target="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-webmvc:jar:3.1.2.RELEASE/org.springframework:spring-asm:jar:3.1.2.RELEASE">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-oxm:jar:3.1.2.RELEASE" target="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-oxm:jar:3.1.2.RELEASE/org.springframework:spring-core:jar:3.1.2.RELEASE">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-webmvc:jar:3.1.2.RELEASE" target="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-webmvc:jar:3.1.2.RELEASE/org.springframework:spring-context-support:jar:3.1.2.RELEASE">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-web:jar:3.1.2.RELEASE" target="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-web:jar:3.1.2.RELEASE/aopalliance:aopalliance:jar:1.0">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE" target="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework.ws:spring-xml:jar:2.1.1.RELEASE">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE" target="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-beans:jar:3.1.2.RELEASE">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE" target="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-aop:jar:3.1.2.RELEASE">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="spring1:spring1:1.0-SNAPSHOT" target="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-context:jar:3.1.2.RELEASE" target="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-context:jar:3.1.2.RELEASE/org.springframework:spring-core:jar:3.1.2.RELEASE">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-context:jar:3.1.2.RELEASE" target="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-context:jar:3.1.2.RELEASE/org.springframework:spring-beans:jar:3.1.2.RELEASE">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-context:jar:3.1.2.RELEASE" target="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-context:jar:3.1.2.RELEASE/org.springframework:spring-aop:jar:3.1.2.RELEASE">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="spring1:spring1:1.0-SNAPSHOT" target="log4j:log4j:jar:1.2.17">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="spring1:spring1:1.0-SNAPSHOT" target="javax.ws.rs:jsr311-api:jar:1.1-ea">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework.ws:spring-xml:jar:2.1.1.RELEASE" target="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework.ws:spring-xml:jar:2.1.1.RELEASE/commons-logging:commons-logging:jar:1.1.1">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE" target="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-web:jar:3.1.2.RELEASE">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-core:jar:3.1.2.RELEASE" target="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-core:jar:3.1.2.RELEASE/org.springframework:spring-asm:jar:3.1.2.RELEASE">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-context:jar:3.1.2.RELEASE" target="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-context:jar:3.1.2.RELEASE/org.springframework:spring-asm:jar:3.1.2.RELEASE">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework.ws:spring-xml:jar:2.1.1.RELEASE" target="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework.ws:spring-xml:jar:2.1.1.RELEASE/org.springframework:spring-context:jar:3.1.2.RELEASE">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-aop:jar:3.1.2.RELEASE" target="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-aop:jar:3.1.2.RELEASE/org.springframework:spring-core:jar:3.1.2.RELEASE">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-core:jar:3.1.2.RELEASE" target="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-core:jar:3.1.2.RELEASE/commons-logging:commons-logging:jar:1.1.1">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-webmvc:jar:3.1.2.RELEASE" target="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-webmvc:jar:3.1.2.RELEASE/org.springframework:spring-expression:jar:3.1.2.RELEASE">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="com.sun.jersey:jersey:jar:0.8-ea" target="com.sun.jersey:jersey:jar:0.8-ea/javax.ws.rs:jsr311-api:jar:0.8">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-webmvc:jar:3.1.2.RELEASE/org.springframework:spring-context-support:jar:3.1.2.RELEASE" target="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-webmvc:jar:3.1.2.RELEASE/org.springframework:spring-context-support:jar:3.1.2.RELEASE/org.springframework:spring-context:jar:3.1.2.RELEASE">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE" target="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-core:jar:3.1.2.RELEASE">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-oxm:jar:3.1.2.RELEASE" target="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-oxm:jar:3.1.2.RELEASE/org.springframework:spring-context:jar:3.1.2.RELEASE">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-oxm:jar:3.1.2.RELEASE" target="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-oxm:jar:3.1.2.RELEASE/commons-lang:commons-lang:jar:2.5">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-webmvc:jar:3.1.2.RELEASE/org.springframework:spring-context-support:jar:3.1.2.RELEASE" target="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-webmvc:jar:3.1.2.RELEASE/org.springframework:spring-context-support:jar:3.1.2.RELEASE/org.springframework:spring-beans:jar:3.1.2.RELEASE">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-context:jar:3.1.2.RELEASE" target="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-context:jar:3.1.2.RELEASE/org.springframework:spring-expression:jar:3.1.2.RELEASE">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-webmvc:jar:3.1.2.RELEASE" target="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-webmvc:jar:3.1.2.RELEASE/org.springframework:spring-beans:jar:3.1.2.RELEASE">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE" target="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-context:jar:3.1.2.RELEASE">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="spring1:spring1:1.0-SNAPSHOT" target="com.sun.jersey:jersey:jar:0.8-ea">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="junit:junit:jar:4.11" target="junit:junit:jar:4.11/org.hamcrest:hamcrest-core:jar:1.3">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework.ws:spring-xml:jar:2.1.1.RELEASE" target="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework.ws:spring-xml:jar:2.1.1.RELEASE/javax.xml.stream:stax-api:jar:1.0-2">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-web:jar:3.1.2.RELEASE" target="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-web:jar:3.1.2.RELEASE/org.springframework:spring-core:jar:3.1.2.RELEASE">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-webmvc:jar:3.1.2.RELEASE" target="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-webmvc:jar:3.1.2.RELEASE/org.springframework:spring-core:jar:3.1.2.RELEASE">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-              </edges>
-              <settings layout="Hierarchic Group" zoom="1.0" x="46.0" y="85.0" />
-              <SelectedNodes>
-                <node>spring1:spring1:1.0-SNAPSHOT</node>
-              </SelectedNodes>
-              <Categories />
-              <VISIBILITY>All</VISIBILITY>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="settings.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/.m2/settings.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="4" selection-start="278" selection-end="278" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -639,7 +364,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -649,8 +373,19 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spring1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spring1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -669,13 +404,13 @@
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="findjar.last.used.dir" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="MemberChooser.showClasses" value="true" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="dynamic.classpath" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
-    <property name="options.searchVisible" value="true" />
     <property name="Downloaded.Files.Path" value="C:\Users\VseVPluse\IdeaProjects\spring1\lib" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="dynamic.classpath" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -769,19 +504,6 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -808,6 +530,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -899,34 +634,34 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2905983" sideWeight="0.4969697" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven-2 Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.14621212" sideWeight="0.6" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32954547" sideWeight="0.75384617" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32954547" sideWeight="0.42662117" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.72991455" sideWeight="0.4878788" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.57337886" sideWeight="0.8090909" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24615385" sideWeight="0.5068182" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.57337886" sideWeight="0.18560606" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32991454" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.12820514" sideWeight="0.4909091" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="ConsoleMavenPlugin" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21969697" sideWeight="0.75384617" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.75384617" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.42662117" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24444444" sideWeight="0.47424242" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="ConsoleMavenPlugin" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven-2 Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.14621212" sideWeight="0.6" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.12820514" sideWeight="0.4909091" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Module Dependencies" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.14015152" sideWeight="0.6" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32991454" sideWeight="0.4969697" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -998,6 +733,13 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/UTGenTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="8" selection-start="105" selection-end="105" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="36" column="21" selection-start="1309" selection-end="1309" vertical-scroll-proportion="0.0">
@@ -1045,15 +787,15 @@
             <node x="-68.0" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-webmvc:jar:3.1.2.RELEASE/org.springframework:spring-expression:jar:3.1.2.RELEASE</node>
             <node x="-67.5" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework.ws:spring-xml:jar:2.1.1.RELEASE/commons-logging:commons-logging:jar:1.1.1</node>
             <node x="-47.5" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-aop:jar:3.1.2.RELEASE</node>
-            <node x="-59.0" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-webmvc:jar:3.1.2.RELEASE/org.springframework:spring-context-support:jar:3.1.2.RELEASE/org.springframework:spring-context:jar:3.1.2.RELEASE</node>
             <node x="-49.0" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-webmvc:jar:3.1.2.RELEASE/org.springframework:spring-asm:jar:3.1.2.RELEASE</node>
-            <node x="-54.0" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-beans:jar:3.1.2.RELEASE</node>
+            <node x="-59.0" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-webmvc:jar:3.1.2.RELEASE/org.springframework:spring-context-support:jar:3.1.2.RELEASE/org.springframework:spring-context:jar:3.1.2.RELEASE</node>
             <node x="-93.0" y="84.0">junit:junit:jar:4.11/org.hamcrest:hamcrest-core:jar:1.3</node>
-            <node x="337.5" y="-7.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-beans:jar:3.1.2.RELEASE/org.springframework:spring-core:jar:3.1.2.RELEASE</node>
+            <node x="-54.0" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-beans:jar:3.1.2.RELEASE</node>
             <node x="-54.0" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-web:jar:3.1.2.RELEASE/org.springframework:spring-beans:jar:3.1.2.RELEASE</node>
+            <node x="337.5" y="-7.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-beans:jar:3.1.2.RELEASE/org.springframework:spring-core:jar:3.1.2.RELEASE</node>
             <node x="-29.0" y="-14.0">com.sun.jersey:jersey:jar:0.8-ea/asm:asm:jar:3.1</node>
-            <node x="-49.0" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-aop:jar:3.1.2.RELEASE/org.springframework:spring-asm:jar:3.1.2.RELEASE</node>
             <node x="-49.5" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework.ws:spring-xml:jar:2.1.1.RELEASE/org.springframework:spring-core:jar:3.1.2.RELEASE</node>
+            <node x="-49.0" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-aop:jar:3.1.2.RELEASE/org.springframework:spring-asm:jar:3.1.2.RELEASE</node>
             <node x="-67.5" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/commons-logging:commons-logging:jar:1.1.1</node>
             <node x="-49.5" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-oxm:jar:3.1.2.RELEASE/org.springframework:spring-core:jar:3.1.2.RELEASE</node>
             <node x="-40.5" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework.ws:spring-xml:jar:2.1.1.RELEASE/javax.xml.stream:stax-api:jar:1.0-2</node>
@@ -1084,8 +826,8 @@
             <node x="-54.0" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-webmvc:jar:3.1.2.RELEASE/org.springframework:spring-context-support:jar:3.1.2.RELEASE/org.springframework:spring-beans:jar:3.1.2.RELEASE</node>
             <node x="-60.5" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-webmvc:jar:3.1.2.RELEASE</node>
             <node x="-49.5" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-oxm:jar:3.1.2.RELEASE</node>
-            <node x="-49.0" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-core:jar:3.1.2.RELEASE/org.springframework:spring-asm:jar:3.1.2.RELEASE</node>
             <node x="-139.0" y="-44.0">junit:junit:jar:4.11</node>
+            <node x="-49.0" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-core:jar:3.1.2.RELEASE/org.springframework:spring-asm:jar:3.1.2.RELEASE</node>
             <node x="-46.0" y="-14.0">javax.ws.rs:jsr311-api:jar:1.1-ea</node>
             <node x="-47.5" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework.ws:spring-xml:jar:2.1.1.RELEASE</node>
           </nodes>
@@ -1131,6 +873,10 @@
               <point x="0.0" y="0.0" />
               <point x="0.0" y="0.0" />
             </edge>
+            <edge source="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-web:jar:3.1.2.RELEASE" target="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-web:jar:3.1.2.RELEASE/org.springframework:spring-beans:jar:3.1.2.RELEASE">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
             <edge source="com.sun.jersey:jersey:jar:0.8-ea" target="com.sun.jersey:jersey:jar:0.8-ea/asm:asm:jar:3.1">
               <point x="0.0" y="0.0" />
               <point x="0.0" y="0.0" />
@@ -1139,7 +885,7 @@
               <point x="0.0" y="0.0" />
               <point x="0.0" y="0.0" />
             </edge>
-            <edge source="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-web:jar:3.1.2.RELEASE" target="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-web:jar:3.1.2.RELEASE/org.springframework:spring-beans:jar:3.1.2.RELEASE">
+            <edge source="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-aop:jar:3.1.2.RELEASE" target="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-aop:jar:3.1.2.RELEASE/org.springframework:spring-asm:jar:3.1.2.RELEASE">
               <point x="0.0" y="0.0" />
               <point x="0.0" y="0.0" />
             </edge>
@@ -1147,15 +893,11 @@
               <point x="0.0" y="0.0" />
               <point x="0.0" y="0.0" />
             </edge>
-            <edge source="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-aop:jar:3.1.2.RELEASE" target="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-aop:jar:3.1.2.RELEASE/org.springframework:spring-asm:jar:3.1.2.RELEASE">
+            <edge source="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE" target="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-oxm:jar:3.1.2.RELEASE">
               <point x="0.0" y="0.0" />
               <point x="0.0" y="0.0" />
             </edge>
             <edge source="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-beans:jar:3.1.2.RELEASE" target="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-beans:jar:3.1.2.RELEASE/org.springframework:spring-core:jar:3.1.2.RELEASE">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE" target="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-oxm:jar:3.1.2.RELEASE">
               <point x="0.0" y="0.0" />
               <point x="0.0" y="0.0" />
             </edge>
@@ -1175,11 +917,11 @@
               <point x="0.0" y="0.0" />
               <point x="0.0" y="0.0" />
             </edge>
-            <edge source="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-webmvc:jar:3.1.2.RELEASE" target="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-webmvc:jar:3.1.2.RELEASE/org.springframework:spring-context-support:jar:3.1.2.RELEASE">
+            <edge source="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-oxm:jar:3.1.2.RELEASE" target="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-oxm:jar:3.1.2.RELEASE/org.springframework:spring-core:jar:3.1.2.RELEASE">
               <point x="0.0" y="0.0" />
               <point x="0.0" y="0.0" />
             </edge>
-            <edge source="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-oxm:jar:3.1.2.RELEASE" target="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-oxm:jar:3.1.2.RELEASE/org.springframework:spring-core:jar:3.1.2.RELEASE">
+            <edge source="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-webmvc:jar:3.1.2.RELEASE" target="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-webmvc:jar:3.1.2.RELEASE/org.springframework:spring-context-support:jar:3.1.2.RELEASE">
               <point x="0.0" y="0.0" />
               <point x="0.0" y="0.0" />
             </edge>
@@ -1279,11 +1021,11 @@
               <point x="0.0" y="0.0" />
               <point x="0.0" y="0.0" />
             </edge>
-            <edge source="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-context:jar:3.1.2.RELEASE" target="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-context:jar:3.1.2.RELEASE/org.springframework:spring-expression:jar:3.1.2.RELEASE">
+            <edge source="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-webmvc:jar:3.1.2.RELEASE" target="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-webmvc:jar:3.1.2.RELEASE/org.springframework:spring-beans:jar:3.1.2.RELEASE">
               <point x="0.0" y="0.0" />
               <point x="0.0" y="0.0" />
             </edge>
-            <edge source="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-webmvc:jar:3.1.2.RELEASE" target="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-webmvc:jar:3.1.2.RELEASE/org.springframework:spring-beans:jar:3.1.2.RELEASE">
+            <edge source="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-context:jar:3.1.2.RELEASE" target="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-context:jar:3.1.2.RELEASE/org.springframework:spring-expression:jar:3.1.2.RELEASE">
               <point x="0.0" y="0.0" />
               <point x="0.0" y="0.0" />
             </edge>
@@ -1291,11 +1033,11 @@
               <point x="0.0" y="0.0" />
               <point x="0.0" y="0.0" />
             </edge>
-            <edge source="junit:junit:jar:4.11" target="junit:junit:jar:4.11/org.hamcrest:hamcrest-core:jar:1.3">
+            <edge source="spring1:spring1:1.0-SNAPSHOT" target="com.sun.jersey:jersey:jar:0.8-ea">
               <point x="0.0" y="0.0" />
               <point x="0.0" y="0.0" />
             </edge>
-            <edge source="spring1:spring1:1.0-SNAPSHOT" target="com.sun.jersey:jersey:jar:0.8-ea">
+            <edge source="junit:junit:jar:4.11" target="junit:junit:jar:4.11/org.hamcrest:hamcrest-core:jar:1.3">
               <point x="0.0" y="0.0" />
               <point x="0.0" y="0.0" />
             </edge>
@@ -1319,13 +1061,6 @@
           <Categories />
           <SCOPE>All</SCOPE>
           <VISIBILITY>All</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.m2/settings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="4" selection-start="278" selection-end="278" vertical-scroll-proportion="0.0">
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1360,14 +1095,14 @@
             <node x="-68.0" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-webmvc:jar:3.1.2.RELEASE/org.springframework:spring-expression:jar:3.1.2.RELEASE</node>
             <node x="-67.5" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework.ws:spring-xml:jar:2.1.1.RELEASE/commons-logging:commons-logging:jar:1.1.1</node>
             <node x="-47.5" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-aop:jar:3.1.2.RELEASE</node>
-            <node x="-49.0" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-webmvc:jar:3.1.2.RELEASE/org.springframework:spring-asm:jar:3.1.2.RELEASE</node>
             <node x="-59.0" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-webmvc:jar:3.1.2.RELEASE/org.springframework:spring-context-support:jar:3.1.2.RELEASE/org.springframework:spring-context:jar:3.1.2.RELEASE</node>
-            <node x="-93.0" y="84.0">junit:junit:jar:4.11/org.hamcrest:hamcrest-core:jar:1.3</node>
+            <node x="-49.0" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-webmvc:jar:3.1.2.RELEASE/org.springframework:spring-asm:jar:3.1.2.RELEASE</node>
             <node x="-54.0" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-beans:jar:3.1.2.RELEASE</node>
-            <node x="-54.0" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-web:jar:3.1.2.RELEASE/org.springframework:spring-beans:jar:3.1.2.RELEASE</node>
+            <node x="-93.0" y="84.0">junit:junit:jar:4.11/org.hamcrest:hamcrest-core:jar:1.3</node>
             <node x="337.5" y="-7.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-beans:jar:3.1.2.RELEASE/org.springframework:spring-core:jar:3.1.2.RELEASE</node>
-            <node x="-49.5" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework.ws:spring-xml:jar:2.1.1.RELEASE/org.springframework:spring-core:jar:3.1.2.RELEASE</node>
+            <node x="-54.0" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-web:jar:3.1.2.RELEASE/org.springframework:spring-beans:jar:3.1.2.RELEASE</node>
             <node x="-49.0" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-aop:jar:3.1.2.RELEASE/org.springframework:spring-asm:jar:3.1.2.RELEASE</node>
+            <node x="-49.5" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework.ws:spring-xml:jar:2.1.1.RELEASE/org.springframework:spring-core:jar:3.1.2.RELEASE</node>
             <node x="-67.5" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/commons-logging:commons-logging:jar:1.1.1</node>
             <node x="-49.5" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-oxm:jar:3.1.2.RELEASE/org.springframework:spring-core:jar:3.1.2.RELEASE</node>
             <node x="-40.5" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework.ws:spring-xml:jar:2.1.1.RELEASE/javax.xml.stream:stax-api:jar:1.0-2</node>
@@ -1398,8 +1133,8 @@
             <node x="-54.0" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-webmvc:jar:3.1.2.RELEASE/org.springframework:spring-context-support:jar:3.1.2.RELEASE/org.springframework:spring-beans:jar:3.1.2.RELEASE</node>
             <node x="-60.5" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-webmvc:jar:3.1.2.RELEASE</node>
             <node x="-49.5" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-oxm:jar:3.1.2.RELEASE</node>
-            <node x="-139.0" y="-44.0">junit:junit:jar:4.11</node>
             <node x="-49.0" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-core:jar:3.1.2.RELEASE/org.springframework:spring-asm:jar:3.1.2.RELEASE</node>
+            <node x="-139.0" y="-44.0">junit:junit:jar:4.11</node>
             <node x="-47.5" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework.ws:spring-xml:jar:2.1.1.RELEASE</node>
           </nodes>
           <notes />
@@ -1452,19 +1187,19 @@
               <point x="0.0" y="0.0" />
               <point x="0.0" y="0.0" />
             </edge>
-            <edge source="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-aop:jar:3.1.2.RELEASE" target="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-aop:jar:3.1.2.RELEASE/org.springframework:spring-asm:jar:3.1.2.RELEASE">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
             <edge source="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-aop:jar:3.1.2.RELEASE" target="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-aop:jar:3.1.2.RELEASE/aopalliance:aopalliance:jar:1.0">
               <point x="0.0" y="0.0" />
               <point x="0.0" y="0.0" />
             </edge>
-            <edge source="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-beans:jar:3.1.2.RELEASE" target="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-beans:jar:3.1.2.RELEASE/org.springframework:spring-core:jar:3.1.2.RELEASE">
+            <edge source="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-aop:jar:3.1.2.RELEASE" target="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-aop:jar:3.1.2.RELEASE/org.springframework:spring-asm:jar:3.1.2.RELEASE">
               <point x="0.0" y="0.0" />
               <point x="0.0" y="0.0" />
             </edge>
             <edge source="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE" target="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-oxm:jar:3.1.2.RELEASE">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-beans:jar:3.1.2.RELEASE" target="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-beans:jar:3.1.2.RELEASE/org.springframework:spring-core:jar:3.1.2.RELEASE">
               <point x="0.0" y="0.0" />
               <point x="0.0" y="0.0" />
             </edge>
@@ -1484,11 +1219,11 @@
               <point x="0.0" y="0.0" />
               <point x="0.0" y="0.0" />
             </edge>
-            <edge source="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-oxm:jar:3.1.2.RELEASE" target="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-oxm:jar:3.1.2.RELEASE/org.springframework:spring-core:jar:3.1.2.RELEASE">
+            <edge source="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-webmvc:jar:3.1.2.RELEASE" target="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-webmvc:jar:3.1.2.RELEASE/org.springframework:spring-context-support:jar:3.1.2.RELEASE">
               <point x="0.0" y="0.0" />
               <point x="0.0" y="0.0" />
             </edge>
-            <edge source="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-webmvc:jar:3.1.2.RELEASE" target="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-webmvc:jar:3.1.2.RELEASE/org.springframework:spring-context-support:jar:3.1.2.RELEASE">
+            <edge source="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-oxm:jar:3.1.2.RELEASE" target="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-oxm:jar:3.1.2.RELEASE/org.springframework:spring-core:jar:3.1.2.RELEASE">
               <point x="0.0" y="0.0" />
               <point x="0.0" y="0.0" />
             </edge>
@@ -1619,41 +1354,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.m2/settings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="4" selection-start="278" selection-end="278" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.m2/settings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="4" selection-start="278" selection-end="278" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/example/HelloWorld.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="40" selection-start="870" selection-end="870" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/example/HelloWorldClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="18" selection-end="18" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/UTGenTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="8" selection-start="105" selection-end="105" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="uml://MAVEN/spring1:spring1:1.0-SNAPSHOT">
       <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
@@ -1673,15 +1373,15 @@
             <node x="-68.0" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-webmvc:jar:3.1.2.RELEASE/org.springframework:spring-expression:jar:3.1.2.RELEASE</node>
             <node x="-67.5" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework.ws:spring-xml:jar:2.1.1.RELEASE/commons-logging:commons-logging:jar:1.1.1</node>
             <node x="-47.5" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-aop:jar:3.1.2.RELEASE</node>
-            <node x="-59.0" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-webmvc:jar:3.1.2.RELEASE/org.springframework:spring-context-support:jar:3.1.2.RELEASE/org.springframework:spring-context:jar:3.1.2.RELEASE</node>
             <node x="-49.0" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-webmvc:jar:3.1.2.RELEASE/org.springframework:spring-asm:jar:3.1.2.RELEASE</node>
-            <node x="-54.0" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-beans:jar:3.1.2.RELEASE</node>
+            <node x="-59.0" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-webmvc:jar:3.1.2.RELEASE/org.springframework:spring-context-support:jar:3.1.2.RELEASE/org.springframework:spring-context:jar:3.1.2.RELEASE</node>
             <node x="-93.0" y="84.0">junit:junit:jar:4.11/org.hamcrest:hamcrest-core:jar:1.3</node>
-            <node x="337.5" y="-7.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-beans:jar:3.1.2.RELEASE/org.springframework:spring-core:jar:3.1.2.RELEASE</node>
+            <node x="-54.0" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-beans:jar:3.1.2.RELEASE</node>
             <node x="-54.0" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-web:jar:3.1.2.RELEASE/org.springframework:spring-beans:jar:3.1.2.RELEASE</node>
+            <node x="337.5" y="-7.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-beans:jar:3.1.2.RELEASE/org.springframework:spring-core:jar:3.1.2.RELEASE</node>
             <node x="-29.0" y="-14.0">com.sun.jersey:jersey:jar:0.8-ea/asm:asm:jar:3.1</node>
-            <node x="-49.0" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-aop:jar:3.1.2.RELEASE/org.springframework:spring-asm:jar:3.1.2.RELEASE</node>
             <node x="-49.5" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework.ws:spring-xml:jar:2.1.1.RELEASE/org.springframework:spring-core:jar:3.1.2.RELEASE</node>
+            <node x="-49.0" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-aop:jar:3.1.2.RELEASE/org.springframework:spring-asm:jar:3.1.2.RELEASE</node>
             <node x="-67.5" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/commons-logging:commons-logging:jar:1.1.1</node>
             <node x="-49.5" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-oxm:jar:3.1.2.RELEASE/org.springframework:spring-core:jar:3.1.2.RELEASE</node>
             <node x="-40.5" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework.ws:spring-xml:jar:2.1.1.RELEASE/javax.xml.stream:stax-api:jar:1.0-2</node>
@@ -1712,8 +1412,8 @@
             <node x="-54.0" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-webmvc:jar:3.1.2.RELEASE/org.springframework:spring-context-support:jar:3.1.2.RELEASE/org.springframework:spring-beans:jar:3.1.2.RELEASE</node>
             <node x="-60.5" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-webmvc:jar:3.1.2.RELEASE</node>
             <node x="-49.5" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-oxm:jar:3.1.2.RELEASE</node>
-            <node x="-49.0" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-core:jar:3.1.2.RELEASE/org.springframework:spring-asm:jar:3.1.2.RELEASE</node>
             <node x="-139.0" y="-44.0">junit:junit:jar:4.11</node>
+            <node x="-49.0" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-core:jar:3.1.2.RELEASE/org.springframework:spring-asm:jar:3.1.2.RELEASE</node>
             <node x="-46.0" y="-14.0">javax.ws.rs:jsr311-api:jar:1.1-ea</node>
             <node x="-47.5" y="-14.0">org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework.ws:spring-xml:jar:2.1.1.RELEASE</node>
           </nodes>
@@ -1759,6 +1459,10 @@
               <point x="0.0" y="0.0" />
               <point x="0.0" y="0.0" />
             </edge>
+            <edge source="com.sun.jersey:jersey:jar:0.8-ea" target="com.sun.jersey:jersey:jar:0.8-ea/asm:asm:jar:3.1">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
             <edge source="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-oxm:jar:3.1.2.RELEASE" target="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-oxm:jar:3.1.2.RELEASE/org.springframework:spring-beans:jar:3.1.2.RELEASE">
               <point x="0.0" y="0.0" />
               <point x="0.0" y="0.0" />
@@ -1767,7 +1471,7 @@
               <point x="0.0" y="0.0" />
               <point x="0.0" y="0.0" />
             </edge>
-            <edge source="com.sun.jersey:jersey:jar:0.8-ea" target="com.sun.jersey:jersey:jar:0.8-ea/asm:asm:jar:3.1">
+            <edge source="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-aop:jar:3.1.2.RELEASE" target="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-aop:jar:3.1.2.RELEASE/aopalliance:aopalliance:jar:1.0">
               <point x="0.0" y="0.0" />
               <point x="0.0" y="0.0" />
             </edge>
@@ -1775,15 +1479,11 @@
               <point x="0.0" y="0.0" />
               <point x="0.0" y="0.0" />
             </edge>
-            <edge source="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-aop:jar:3.1.2.RELEASE" target="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-aop:jar:3.1.2.RELEASE/aopalliance:aopalliance:jar:1.0">
+            <edge source="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE" target="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-oxm:jar:3.1.2.RELEASE">
               <point x="0.0" y="0.0" />
               <point x="0.0" y="0.0" />
             </edge>
             <edge source="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-beans:jar:3.1.2.RELEASE" target="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-beans:jar:3.1.2.RELEASE/org.springframework:spring-core:jar:3.1.2.RELEASE">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE" target="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-oxm:jar:3.1.2.RELEASE">
               <point x="0.0" y="0.0" />
               <point x="0.0" y="0.0" />
             </edge>
@@ -1803,11 +1503,11 @@
               <point x="0.0" y="0.0" />
               <point x="0.0" y="0.0" />
             </edge>
-            <edge source="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-oxm:jar:3.1.2.RELEASE" target="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-oxm:jar:3.1.2.RELEASE/org.springframework:spring-core:jar:3.1.2.RELEASE">
+            <edge source="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-webmvc:jar:3.1.2.RELEASE" target="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-webmvc:jar:3.1.2.RELEASE/org.springframework:spring-context-support:jar:3.1.2.RELEASE">
               <point x="0.0" y="0.0" />
               <point x="0.0" y="0.0" />
             </edge>
-            <edge source="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-webmvc:jar:3.1.2.RELEASE" target="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-webmvc:jar:3.1.2.RELEASE/org.springframework:spring-context-support:jar:3.1.2.RELEASE">
+            <edge source="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-oxm:jar:3.1.2.RELEASE" target="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-oxm:jar:3.1.2.RELEASE/org.springframework:spring-core:jar:3.1.2.RELEASE">
               <point x="0.0" y="0.0" />
               <point x="0.0" y="0.0" />
             </edge>
@@ -1907,11 +1607,11 @@
               <point x="0.0" y="0.0" />
               <point x="0.0" y="0.0" />
             </edge>
-            <edge source="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-context:jar:3.1.2.RELEASE" target="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-context:jar:3.1.2.RELEASE/org.springframework:spring-expression:jar:3.1.2.RELEASE">
+            <edge source="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-webmvc:jar:3.1.2.RELEASE" target="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-webmvc:jar:3.1.2.RELEASE/org.springframework:spring-beans:jar:3.1.2.RELEASE">
               <point x="0.0" y="0.0" />
               <point x="0.0" y="0.0" />
             </edge>
-            <edge source="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-webmvc:jar:3.1.2.RELEASE" target="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-webmvc:jar:3.1.2.RELEASE/org.springframework:spring-beans:jar:3.1.2.RELEASE">
+            <edge source="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-context:jar:3.1.2.RELEASE" target="org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE/org.springframework:spring-context:jar:3.1.2.RELEASE/org.springframework:spring-expression:jar:3.1.2.RELEASE">
               <point x="0.0" y="0.0" />
               <point x="0.0" y="0.0" />
             </edge>
@@ -1919,11 +1619,11 @@
               <point x="0.0" y="0.0" />
               <point x="0.0" y="0.0" />
             </edge>
-            <edge source="spring1:spring1:1.0-SNAPSHOT" target="com.sun.jersey:jersey:jar:0.8-ea">
+            <edge source="junit:junit:jar:4.11" target="junit:junit:jar:4.11/org.hamcrest:hamcrest-core:jar:1.3">
               <point x="0.0" y="0.0" />
               <point x="0.0" y="0.0" />
             </edge>
-            <edge source="junit:junit:jar:4.11" target="junit:junit:jar:4.11/org.hamcrest:hamcrest-core:jar:1.3">
+            <edge source="spring1:spring1:1.0-SNAPSHOT" target="com.sun.jersey:jersey:jar:0.8-ea">
               <point x="0.0" y="0.0" />
               <point x="0.0" y="0.0" />
             </edge>
@@ -1945,13 +1645,42 @@
             <node>spring1:spring1:1.0-SNAPSHOT</node>
           </SelectedNodes>
           <Categories />
+          <SCOPE>All</SCOPE>
           <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/UTGenTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="8" selection-start="105" selection-end="105" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/example/HelloWorldClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="18" selection-end="18" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/example/HelloWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="1" selection-start="1150" selection-end="1150" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="50" selection-start="369" selection-end="369" vertical-scroll-proportion="0.31233597">
+        <state line="7" column="48" selection-start="369" selection-end="369" vertical-scroll-proportion="0.6263158">
           <folding />
         </state>
       </provider>
